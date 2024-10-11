@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Saraha-Project.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  MyForm.cpp
+c:\users\omaradel\source\repos\saraha-project\saraha-project\myform.h(242): warning C4101: 'count2': unreferenced local variable
+c:\users\omaradel\source\repos\saraha-project\saraha-project\myform.h(257): warning C4101: 'IDD': unreferenced local variable
+c:\users\omaradel\source\repos\saraha-project\saraha-project\myform.cpp(5): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm1.cpp
+  Generating Code...
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Saraha-Project.vcxproj -> C:\Users\OmarAdEL\source\repos\Saraha-Project\Debug\SarahaProject.exe
